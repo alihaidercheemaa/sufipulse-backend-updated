@@ -31,14 +31,12 @@ app.add_middleware(
         "https://sufi-pulse-five.vercel.app",
         "http://localhost:3000",
         "http://127.0.0.1:3001",
-        "https://sufipulse.com",
         "http://127.0.0.1",
         "http://localhost:8000",
         "http://127.0.0.1:8000",
         "https://dkf.sufisciencecenter.info",
         "https://sufipulse.com",
-        "https://www.sufipulse.com"
-        
+        "https://www.sufipulse.com" 
     ],
     allow_credentials=True,
     allow_methods=["*"],
