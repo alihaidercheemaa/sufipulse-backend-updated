@@ -34,7 +34,11 @@ app.add_middleware(
         "https://sufipulse.com",
         "http://127.0.0.1",
         "http://localhost:8000",
-        "http://127.0.0.1:8000"
+        "http://127.0.0.1:8000",
+        "https://dkf.sufisciencecenter.info",
+        "https://sufipulse.com",
+        "https://www.sufipulse.com"
+        
     ],
     allow_credentials=True,
     allow_methods=["*"],
