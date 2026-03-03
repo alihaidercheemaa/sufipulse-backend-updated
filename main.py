@@ -36,7 +36,8 @@ app.add_middleware(
         "http://127.0.0.1:8000",
         "https://dkf.sufisciencecenter.info",
         "https://sufipulse.com",
-        "https://www.sufipulse.com" 
+        "https://www.sufipulse.com",
+        "https://dr-kumar-foundation.vercel.app"
     ],
     allow_credentials=True,
     allow_methods=["*"],
